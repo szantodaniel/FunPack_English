@@ -1,0 +1,2 @@
+function manhunt:compass
+function manhunt:setcompass

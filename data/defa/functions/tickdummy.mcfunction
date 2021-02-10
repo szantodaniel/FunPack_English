@@ -1,0 +1,1 @@
+execute if score @p tick matches 1 run function defa:tick

@@ -1,0 +1,1 @@
+tellraw @a {"text":"Helycsere 10 másodpercen belül!","color":"red","bold":1}
