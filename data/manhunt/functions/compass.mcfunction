@@ -1,1 +1,1 @@
-replaceitem entity @a[team=!nofollow] hotbar.8 minecraft:compass{display:{Name:'[{"text":"Iránytű","italic":false,"color":"green","bold":true},{"text":"","bold":false}]'}}
+replaceitem entity @a[team=!nofollow] hotbar.8 minecraft:compass{display:{Name:'[{"text":"Compass","italic":false,"color":"green","bold":true},{"text":"","bold":false}]'}}
