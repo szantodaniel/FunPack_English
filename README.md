@@ -13,7 +13,7 @@ How to config the datapack:
             /team join nofollow [prey]
     
 
-    Deathswap: 
+    Deathswap: FunPack\data\deathswap\functions
         swaper.mcfunction
             change all "player1" for the name of the first player
             change all "player2" for the name of the second player
