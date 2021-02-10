@@ -1,6 +1,6 @@
 This is the FunPack1.0 (by.: PermaFreez)
 
-The pack contains the Manhunt (only for servers with this plugin: https://dev.bukkit.org/projects/joppiesaus-pass) and the Deathswap minigames (Both of them from Dream's videos)
+The pack includes the Manhunt (only for servers with this plugin: https://dev.bukkit.org/projects/joppiesaus-pass) and the Deathswap minigames (Both of them from Dream's videos)
 
 How to config the datapack:
 
@@ -13,15 +13,15 @@ How to config the datapack:
             /team join nofollow [prey]
     
 
-    Deathswap: 
+    Deathswap: FunPack\data\deathswap\functions
         swaper.mcfunction
             change all "player1" for the name of the first player
             change all "player2" for the name of the second player
 
 Start/stop:
 
-    Manhunt start: /function defa:tick/on
-    Manhunt stop: /function defa:tick/off
+    Manhunt start: /function manhunt:start
+    Manhunt stop: /function manhunt:stop
 
 
     Deathswap start: /function deathswap:start
