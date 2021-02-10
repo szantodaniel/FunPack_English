@@ -26,3 +26,5 @@ Start/stop:
 
     Deathswap start: /function deathswap:start
     Deathswap stop: /function deathswap:stop
+
+hungarian languge in traces
