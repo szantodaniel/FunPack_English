@@ -20,8 +20,8 @@ How to config the datapack:
 
 Start/stop:
 
-    Manhunt start: /function defa:tick/on
-    Manhunt stop: /function defa:tick/off
+    Manhunt start: /function manhunt:start
+    Manhunt stop: /function manhunt:stop
 
 
     Deathswap start: /function deathswap:start
