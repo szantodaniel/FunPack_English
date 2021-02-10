@@ -1,6 +1,6 @@
 This is the FunPack1.0 (by.: PermaFreez)
 
-The pack contains the Manhunt (only for servers with this plugin: https://dev.bukkit.org/projects/joppiesaus-pass) and the Deathswap minigames (Both of them from Dream's videos)
+The pack includes the Manhunt (only for servers with this plugin: https://dev.bukkit.org/projects/joppiesaus-pass) and the Deathswap minigames (Both of them from Dream's videos)
 
 How to config the datapack:
 
