@@ -1,4 +1,4 @@
-#számláló
+#countdown
 schedule function deathswap:vissza/10 1s
 schedule function deathswap:vissza/9 2s
 schedule function deathswap:vissza/8 3s
@@ -13,5 +13,5 @@ schedule function deathswap:vissza/1 10s
 #teleport
 schedule function deathswap:swaper 11s
 
-#újra
+#restart
 schedule function deathswap:delay 311s

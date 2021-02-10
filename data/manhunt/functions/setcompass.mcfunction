@@ -1,3 +1,3 @@
-setplayercompass kikövet kit
-setplayercompass kikövet kit
-setplayercompass kikövet kit
+setplayercompass player1 player2
+setplayercompass player1 player2
+setplayercompass player1 player2
