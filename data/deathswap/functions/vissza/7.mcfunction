@@ -1,1 +1,1 @@
-tellraw @a {"text":"Helycsere 7 másodpercen belül!","color":"red","bold":1}
+tellraw @a {"text":"Switching places in 7 seconds!","color":"red","bold":1}
