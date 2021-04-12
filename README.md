@@ -18,7 +18,7 @@ How to config the datapack:
             change all "player1" for the name of the first player
             change all "player2" for the name of the second player
 
-Start/stop:
+    Start/stop:
 
     Manhunt start: /function manhunt:start
     Manhunt stop: /function manhunt:stop
